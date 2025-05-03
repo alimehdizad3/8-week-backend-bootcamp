@@ -1,3 +1,4 @@
+
 #Day 1 - Git & GitHub
 
 # Day 1 – Git & GitHub
@@ -17,3 +18,7 @@
 - GitHub hesabı necə yaradılır
 - Kompüterdə Git ilə repository necə yaradılır
 - Kodları GitHub-a necə yükləmək olar
+
+# 8-week-backend-bootcamp
+My backend developer journey. 8 weeks of learning and building.
+
